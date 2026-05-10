@@ -10,7 +10,7 @@
 <a href="https://github.com/folvioro/sloth/actions/workflows/ci.yml"><img src="https://github.com/folvioro/sloth/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
 </p>
 
-# Sloth — WordPress Theme Framework
+# Folivoro — WordPress Theme Framework
 
 A modern WordPress theme framework built with Laravel components, designed for developers who want to build powerful
 WordPress themes with a clean, object-oriented architecture.
