@@ -10,8 +10,11 @@
 <a href="https://github.com/folvioro/sloth/actions/workflows/ci.yml"><img src="https://github.com/folvioro/sloth/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
 </p>
 
-# Folivoro — WordPress Theme Framework
+# Folivoro — The polymorphic WordPress application framework.
 
+Folivoro is a polymorphic WordPress application framework. It brings Laravel patterns — Dependency Injection, Service Providers, Facades, Eloquent, Events, Cache — into WordPress, without requiring the full Laravel stack.
+
+The word polymorphic is deliberate: Sloth adapts to how your project is structured, rather than enforcing a fixed directory layout.
 A modern WordPress theme framework built with Laravel components, designed for developers who want to build powerful
 WordPress themes with a clean, object-oriented architecture.
 
